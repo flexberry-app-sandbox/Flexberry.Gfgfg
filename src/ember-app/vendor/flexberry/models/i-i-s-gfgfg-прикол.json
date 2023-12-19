@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISGfgfgПрикол",
+  "modelName": "i-i-s-gfgfg-прикол",
+  "className": "Прикол",
+  "nameSpace": "IIS.Gfgfg",
+  "parentModelName": "i-i-s-gfgfg-наслед",
+  "parentClassName": "Наслед",
+  "attrs": [
+    {
+      "name": "тит",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ПриколE",
+      "modelName": "i-i-s-gfgfg-прикол",
+      "attrs": [
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ПриколL",
+      "modelName": "i-i-s-gfgfg-прикол",
+      "attrs": [
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

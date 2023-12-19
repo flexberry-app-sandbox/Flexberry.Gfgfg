@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISGfgfgНаслед",
+  "modelName": "i-i-s-gfgfg-наслед",
+  "className": "Наслед",
+  "nameSpace": "IIS.Gfgfg",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "тит",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "НаследE",
+      "modelName": "i-i-s-gfgfg-наслед",
+      "attrs": [
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "НаследL",
+      "modelName": "i-i-s-gfgfg-наслед",
+      "attrs": [
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

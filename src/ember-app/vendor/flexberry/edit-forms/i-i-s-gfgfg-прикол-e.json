@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Прикол",
+  "name": "IISGfgfgПриколE",
+  "className": "ПриколE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gfgfg-прикол",
+      "modelProjection": "ПриколE"
+    }
+  ]
+}

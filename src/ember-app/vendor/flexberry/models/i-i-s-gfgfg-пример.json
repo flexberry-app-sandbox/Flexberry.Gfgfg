@@ -1,0 +1,87 @@
+﻿{
+  "name": "IISGfgfgПример",
+  "modelName": "i-i-s-gfgfg-пример",
+  "className": "Пример",
+  "nameSpace": "IIS.Gfgfg",
+  "parentModelName": "i-i-s-gfgfg-наслед",
+  "parentClassName": "Наслед",
+  "attrs": [
+    {
+      "name": "номер",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "строка",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ПримерE",
+      "modelName": "i-i-s-gfgfg-пример",
+      "attrs": [
+        {
+          "name": "строка",
+          "caption": "Строка",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "номер",
+          "caption": "Номер",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ПримерL",
+      "modelName": "i-i-s-gfgfg-пример",
+      "attrs": [
+        {
+          "name": "строка",
+          "caption": "Строка",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "номер",
+          "caption": "Номер",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "тит",
+          "caption": "Тит",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

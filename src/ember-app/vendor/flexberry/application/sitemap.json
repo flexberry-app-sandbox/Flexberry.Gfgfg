@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Gfgfg",
+  "applicationTitle": "Gfgfg",
+  "items": [
+    {
+      "link": null,
+      "menuName": "gfgfg",
+      "caption": "Gfgfg",
+      "title": "Gfgfg",
+      "children": [
+        {
+          "link": "i-i-s-gfgfg-наслед-l",
+          "menuName": null,
+          "caption": "Наслед",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gfgfg-пример-l",
+          "menuName": null,
+          "caption": "Пример",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gfgfg-прикол-l",
+          "menuName": null,
+          "caption": "Прикол",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

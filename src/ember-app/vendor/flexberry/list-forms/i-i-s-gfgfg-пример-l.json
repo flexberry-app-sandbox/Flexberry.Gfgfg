@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gfgfg-пример-e",
+  "editForm": "i-i-s-gfgfg-пример-e",
+  "external": false,
+  "caption": "Пример",
+  "name": "IISGfgfgПримерL",
+  "className": "ПримерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gfgfg-пример",
+      "modelProjection": "ПримерL"
+    }
+  ]
+}

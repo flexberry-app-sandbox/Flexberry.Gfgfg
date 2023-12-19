@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пример",
+  "name": "IISGfgfgПримерE",
+  "className": "ПримерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gfgfg-пример",
+      "modelProjection": "ПримерE"
+    }
+  ]
+}

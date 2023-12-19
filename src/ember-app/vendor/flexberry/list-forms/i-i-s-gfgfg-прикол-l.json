@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gfgfg-прикол-e",
+  "editForm": "i-i-s-gfgfg-прикол-e",
+  "external": false,
+  "caption": "Прикол",
+  "name": "IISGfgfgПриколL",
+  "className": "ПриколL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gfgfg-прикол",
+      "modelProjection": "ПриколL"
+    }
+  ]
+}

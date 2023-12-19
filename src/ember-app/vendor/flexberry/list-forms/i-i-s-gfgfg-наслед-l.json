@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gfgfg-наслед-e",
+  "editForm": "i-i-s-gfgfg-наслед-e",
+  "external": false,
+  "caption": "Наслед",
+  "name": "IISGfgfgНаследL",
+  "className": "НаследL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gfgfg-наслед",
+      "modelProjection": "НаследL"
+    }
+  ]
+}
